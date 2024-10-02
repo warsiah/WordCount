@@ -1,0 +1,16 @@
+C:\Users\warsi\source\repos\WordCount\WordCount\bin\Debug\net8.0\WordCount.exe
+C:\Users\warsi\source\repos\WordCount\WordCount\bin\Debug\net8.0\WordCount.deps.json
+C:\Users\warsi\source\repos\WordCount\WordCount\bin\Debug\net8.0\WordCount.runtimeconfig.json
+C:\Users\warsi\source\repos\WordCount\WordCount\bin\Debug\net8.0\WordCount.dll
+C:\Users\warsi\source\repos\WordCount\WordCount\bin\Debug\net8.0\WordCount.pdb
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.Properties.Resources.resources
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.csproj.GenerateResource.cache
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfo.cs
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.dll
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\refint\WordCount.dll
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.pdb
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\WordCount.genruntimeconfig.cache
+C:\Users\warsi\source\repos\WordCount\WordCount\obj\Debug\net8.0\ref\WordCount.dll

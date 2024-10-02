@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\warsi\\source\\repos\\WordCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4307-FADA-4FE1-A316-2F8F450C76BB}|WordCount\\WordCount.csproj|c:\\users\\warsi\\source\\repos\\wordcount\\wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4307-FADA-4FE1-A316-2F8F450C76BB}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4307-FADA-4FE1-A316-2F8F450C76BB}|WordCount\\WordCount.csproj|c:\\users\\warsi\\source\\repos\\wordcount\\wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD0E4307-FADA-4FE1-A316-2F8F450C76BB}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordCount",
+              "DocumentMoniker": "C:\\Users\\warsi\\source\\repos\\WordCount\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "C:\\Users\\warsi\\source\\repos\\WordCount\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T23:37:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\warsi\\source\\repos\\WordCount\\WordCount\\Program.cs",
+              "RelativeDocumentMoniker": "WordCount\\Program.cs",
+              "ToolTip": "C:\\Users\\warsi\\source\\repos\\WordCount\\WordCount\\Program.cs",
+              "RelativeToolTip": "WordCount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:44:12.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

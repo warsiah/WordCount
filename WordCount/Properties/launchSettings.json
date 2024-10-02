@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordCount": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\warsi\\source\\repos\\InFile.txt C:\\Users\\warsi\\source\\repos\\OutFile.txt"
+    }
+  }
+}
